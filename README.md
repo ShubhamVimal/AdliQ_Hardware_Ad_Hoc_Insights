@@ -1,4 +1,4 @@
-# AtliQ Hardware Insights
+# AtliQ Hardware Insights (SQL)
 
 This project is part of a case study for **AtliQ Hardwares**, a leading computer hardware producer in India with global presence. The goal was to solve a set of ad-hoc business requests using SQL and present the findings with visuals in Power BI.  
 
